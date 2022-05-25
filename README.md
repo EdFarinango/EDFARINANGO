@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi  👋
+Soy una persona dinámica y creativa, habituada al trabajo bajo presión. Tengo experiencia en atención al usuario, soporte informático, seguridad, se me facilita el trabajo en equipo en la mayoría de los casos. Actualmente me encuentro en la búsqueda de un empleo en el que pueda demostrar mis habilidades aportando valor agregado a la empresa y ayudando a la resolución de problemas al interior de ella para lograr un crecimiento profesional adecuado.
+Me desenvuelvo en el ámbito informático tanto de hardware como software buscando siempre pensando en ayudar al usuario.
 
 
 Here are some ideas to get you started:
